@@ -21,6 +21,6 @@
 
 # 자바스크립트Deep Dive 공부 블로그
 - 이응모 블로그 https://poiemaweb.com/
-- 100page/1day
+- 100page/1day + Typing Practice(en)
 
 20221221
