@@ -19,7 +19,7 @@
 - 배경지식, CS 기본상식, 용어 이해
 - 문제 해결 능력
 
-자바스크립트Deep Dive 공부 블로그
+# 자바스크립트Deep Dive 공부 블로그
 - 이응모 블로그 https://poiemaweb.com/
 - 100page/1day
 
