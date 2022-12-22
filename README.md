@@ -24,7 +24,7 @@
 - 100page/1day + Typing Practice(en)
 
 ## 2022년12월21일
-- 얄팍한 코딩사전의 "제대로 파는 JavaScript" YouTube 강의 시청
+# 얄팍한 코딩사전의 "제대로 파는 JavaScript" YouTube 강의 시청
 - 섹션 1. 자바스크립트의 기본적인 사용
 1. 콘솔 활용하기
 2. 주석과 세미콜론
