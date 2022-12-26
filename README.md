@@ -105,3 +105,30 @@ Number.isNaN	: 숫자 자료형인 주제에 숫자가 아니어야만 true 반�
 `--a	  1감소한값	      1 감소`  
 `+a	   값 그대로	       없음`  
 `-a	  양음을 반전한값	  없음`  
+- 연산자
+```
+1. Truthy
+console.log(
+  1.23 ? true : false,
+  -999 ? true: false,
+  '0' ? true : false,
+  ' ' ? true : false,
+  Infinity ? true : false,
+  -Infinity ? true : false,
+  {} ? true : false,
+  [] ? true : false,
+);
+//true true true true true true true true
+2. Falsy
+console.log(
+  0 ? true : false,
+  -0 ? true : false,
+  '' ? true : false,
+  null ? true : false,
+  undefined ? true : false,
+  NaN ? true : false,
+);
+//false false false false false false
+```
+
+
