@@ -154,3 +154,27 @@ console.log(
 );
 //NaN NaN NaN NaN NaN
 ```
+- 배열의 기본 메서드
+- Join
+```
+const arr1 = ['a', 'b', 'c', 'd', 'e'];
+const arr2 = [
+  1, true, null, undefined, '가나다', { x: 0 }, [1, 2, 3]
+];
+console.log(
+  arr1.join() // 인자가 없다면 쉼표`,`로
+);
+//a,b,c,d,e
+console.log(
+  arr1.join('')
+);
+//abcde
+console.log(
+  arr1.join(' ')
+);
+//a b c d e
+console.log(
+  arr2.join(':')
+);
+//1:true:::가나다:[object Object]:1,2,3
+```
