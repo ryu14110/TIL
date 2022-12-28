@@ -133,5 +133,24 @@ console.log(
 );
 //false false false false false false
 ```
-
-
+## 2022년 12월 28일 (수)
+- Math 객체
+```
+// 0 반환
+console.log(
+  Math.abs(0),
+  Math.abs(''),
+  Math.abs(null),
+  Math.abs([]),
+);
+//0 0 0 0
+// NaN 반환
+console.log(
+  Math.abs('abc'),
+  Math.abs(undefined),
+  Math.abs({a: 1}),
+  Math.abs([1, 2, 3]),
+  Math.abs()
+);
+//NaN NaN NaN NaN NaN
+```
