@@ -178,3 +178,29 @@ console.log(
 );
 //1:true:::가나다:[object Object]:1,2,3
 ```
+- splice
+```
+const arr = [1, 2, 3, 4, 5, 6, 7];
+
+// 2번 인덱스부터 2개 요소 제거
+arr.splice(2, 2);
+
+console.log(arr);
+// [1, 2, 5, 6, 7]
+
+// 3번 인덱스부터 요소 제거 없이 'a' 추가
+arr.splice(3, 0, 'a');
+
+console.log(arr);
+//[1, 2, 5, 'a', 6, 7]
+// 1번 인덱스부터 3개 요소 제거 후 '가', '나', '다' 추가
+arr.splice(1, 3, '가', '나', '다');
+
+console.log(arr);
+//[1, '가', '나', '다', 6, 7]
+
+
+
+
+
+
