@@ -264,12 +264,12 @@ function solution(array) {
 
 console.log(solution([1, 2, 3, 3, 3, 4]));
 ```
-### I studied for 6 hours today.(coding test all) 
+### I studied for 6 hours today.(Coding Test Practice all) 
 ## 2023년 1월 2일
-- 코딩 테스트 입문 풀기 
+- 코딩 테스트 연습, 입문과정 풀기 
   "입문 과정 (10/100)"
-### I studied for 5 hours today. (coding test all)
+### I studied for 5 hours today. (Coding Test Practice all)
 ## 2023년 1월 3일
-- 코딩 테스트 입문 풀기 
+- 코딩 테스트 연습, 입문 풀기 
   "입문 과정 (20/100)"
-### I studied for 7 hours today. (coding test 5h, html 2h)
+### I studied for 7 hours today. (Coding Test 5h, Html 2h)
