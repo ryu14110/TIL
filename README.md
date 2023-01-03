@@ -268,6 +268,8 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 ## 2023년 1월 2일
 - 코딩 테스트 입문 풀기 
   "입문 과정 (10/100)"
+### I studied for 5 hours today. 
 ## 2023년 1월 3일
 - 코딩 테스트 입문 풀기 
   "입문 과정 (20/100)"
+### I studied for 7 hours today. 
