@@ -264,7 +264,7 @@ function solution(array) {
 
 console.log(solution([1, 2, 3, 3, 3, 4]));
 ```
-I studied for 6 hours today. 
+### I studied for 6 hours today. 
 ## 2023년 1월 2일
 - 코딩 테스트 입문 풀기 
   "입문 과정 (10/100)"
