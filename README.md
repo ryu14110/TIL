@@ -273,3 +273,8 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 코딩 테스트 연습, 입문 풀기 
   "입문 과정 (20/100)"
 ### I studied for **7** hours today. (Coding Test 5h, Html 2h)
+## 2023년 1월 7일
+- 코딩 테스트 연습, 입문과정 풀기 (30/100)
+## 2023년 1월 8일
+- Hello, JavaScript: 자바스크립트 입문 강의(무료) <김용록> 수강
+
