@@ -294,3 +294,5 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 프로젝트 만들기 : RegisterValidator
 ## 2023 1월 27
 - 프로젝트 만들기 : ExpandingCards
+## 2023 1월 28
+- 프로젝트 만들기 : MovieSeatBooking
