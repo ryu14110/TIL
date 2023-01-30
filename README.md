@@ -292,9 +292,11 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 연습게임 만들기 : FlyingSaucer
 ## 2023 1월 25일
 - 프로젝트 만들기 : RegisterValidator
-## 2023 1월 27
+## 2023 1월 27일
 - 프로젝트 만들기 : ExpandingCards
-## 2023 1월 28
+## 2023 1월 28일
 - 프로젝트 만들기 : MovieSeatBooking
-## 2023 1월 29
+## 2023 1월 29일
 - 프로젝트 만들기 : ProgressStep
+## 2023 1월 30일
+- 프로젝트 만들기 : RotatingNavigation
