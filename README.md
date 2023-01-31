@@ -289,14 +289,16 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 ## 2023 1월 15일
 - 디지털 시계 만들기(바닐라 자바스트립트)
 ## 2023 1월 19일
-- 연습게임 만들기 : FlyingSaucer
+- 연습게임 만들기 : Flying Saucer
 ## 2023 1월 25일
-- 프로젝트 만들기 : RegisterValidator
+- 프로젝트 만들기 : Register Validator
 ## 2023 1월 27일
-- 프로젝트 만들기 : ExpandingCards
+- 프로젝트 만들기 : Expanding Cards
 ## 2023 1월 28일
-- 프로젝트 만들기 : MovieSeatBooking
+- 프로젝트 만들기 : Movie Seat Booking
 ## 2023 1월 29일
-- 프로젝트 만들기 : ProgressStep
+- 프로젝트 만들기 : Progress Step
 ## 2023 1월 30일
-- 프로젝트 만들기 : RotatingNavigation
+- 프로젝트 만들기 : Rotating Navigation
+## 2023 1월 3일
+- 프로젝트 만들기 : Hidden Search
