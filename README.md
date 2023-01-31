@@ -300,5 +300,5 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 프로젝트 만들기 : Progress Step
 ## 2023 1월 30일
 - 프로젝트 만들기 : Rotating Navigation
-## 2023 1월 3일
+## 2023 1월 31일
 - 프로젝트 만들기 : Hidden Search
