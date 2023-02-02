@@ -304,3 +304,5 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 프로젝트 만들기 : Hidden Search
 ## 2023년 2월 1일
 - 프로젝트 만들기 : Blurry Loading
+## 2023년 2월 2일
+- 프로젝트 만들기 : Split Landing Page
