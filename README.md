@@ -318,3 +318,11 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 프로젝트 만들기 : Drag N Drop, Drawing App
 ## 2023년 2월 9일(목요일)
 - 프로젝트 만들기 : Kinetic CSS Loader, Sticky Navbar
+## 2023년 2월 10일(금요일)
+- 프로젝트 만들기 : Double Vertical Slider, Toast Notification
+## 2023년 2월 11일(토요일)
+- 프로젝트 만들기 : Double Heart Click. Auto Text Effect
+## 2023년 2월 12일(일요일)
+- 프로젝트 만들기 : Password Generator
+## 2023년 2월 13일(월요일)
+- 프로젝트 만들기 : Good Cheap Fast Checkboxes
