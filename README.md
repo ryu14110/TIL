@@ -326,3 +326,5 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 프로젝트 만들기 : Password Generator
 ## 2023년 2월 13일(월요일)
 - 프로젝트 만들기 : Good Cheap Fast Checkboxes
+## 2023년 2월 14일(화요일)
+- 프로젝트 만들기 : Image Carousel
