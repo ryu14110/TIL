@@ -327,4 +327,6 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 ## 2023년 2월 13일(월요일)
 - 프로젝트 만들기 : Good Cheap Fast Checkboxes
 ## 2023년 2월 14일(화요일)
-- 프로젝트 만들기 : Image Carousel
+- 프로젝트 만들기 : Image Carousel,Animated Countdown
+## 2023년 2월 1일(수요일)
+- 프로젝트 만들기 : Hover board, Pokedex
