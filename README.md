@@ -338,3 +338,5 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 프로젝트 만들기 : Live User Filter, Feedback UI Design
 ## 2023년 2월 19일(일요일)
 - 프로젝트 만들기 : Custom Range Slider, Netflix Nabigation
+## 2023년 2월 20일(월요일)
+- 프로젝트 만들기 : Quiz App, Testimonial Box Switcher
