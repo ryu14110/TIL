@@ -340,9 +340,15 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 프로젝트 만들기 : Custom Range Slider, Netflix Nabigation
 ## 2023년 2월 20일(월요일)
 - 프로젝트 만들기 : Quiz App, Testimonial Box Switcher
-## 2023년 2월 20일(화요일)
+## 2023년 2월 21일(화요일)
 - 프로젝트 만들기 : Form Validato
-## 2023년 2월 20일(수요일)
+## 2023년 2월 22일(수요일)
 - 프로젝트 만들기 : Movie Seat Booking
-## 2023년 2월 20일(목요일)
+## 2023년 2월 23일(목요일)
 - 프로젝트 만들기 : Custom Video Player
+## 2023년 2월 24일(금요일)
+- 프로젝트 만들기 : Dom Array Methods
+## 2023년 2월 25일(토요일)
+- 프로젝트 만들기 : Modal Menu Slider
+## 2023년 2월 2일(일요일)
+- 프로젝트 만들기 : Hangman Game
