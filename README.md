@@ -350,5 +350,7 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 프로젝트 만들기 : Dom Array Methods
 ## 2023년 2월 25일(토요일)
 - 프로젝트 만들기 : Modal Menu Slider
-## 2023년 2월 2일(일요일)
+## 2023년 2월 26일(일요일)
 - 프로젝트 만들기 : Hangman Game
+## 2023년 2월 27일(월요일)
+- nico 프로젝트 만들기 : Random Number Game
