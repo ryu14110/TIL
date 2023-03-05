@@ -360,3 +360,5 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - nico 프로젝트 만들기 : GradientButton
 ## 2023년 3월 4일(토요일)
 - nico 프로젝트 만들기 : ToDoListSite
+## 2023년 3월 5일(일요일)
+- 코누 프로젝트 만들기 : Google 검색창
