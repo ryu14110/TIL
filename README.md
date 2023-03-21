@@ -366,3 +366,7 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 프로젝트 만들기 : Spotify 만들기
 ## 2023년 3월 9일(목요일)
 - 프로젝트 만들기 : Number Guess Game
+## 2023년 3월 20일(월요일)
+- 프로젝트 만들기 : Random number 생성
+## 2023년 3월 21일(화요일)
+- 프로젝트 만들기 : Design House
