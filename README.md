@@ -370,3 +370,11 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 프로젝트 만들기 : Random number 생성
 ## 2023년 3월 21일(화요일)
 - 프로젝트 만들기 : Design House
+
+## 2023년 3월 22일(수요일)
+- DeepDive : 함수편, 
+- Udemy : Clean Code 수강 
+
+## 2023년 3월 23일(목요일)
+- Nomady coding : React 수강
+- Udemy : 변수, 타입, 경계 다루기
