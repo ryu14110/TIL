@@ -378,3 +378,6 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 ## 2023년 3월 23일(목요일)
 - Nomady coding : React 수강
 - Udemy : 변수, 타입, 경계 다루기
+
+## 2023년 3월 24일(금요일)
+- Apple coding : 자바스크립트 처음부터 수강
