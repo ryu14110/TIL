@@ -380,10 +380,16 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - Udemy : 변수, 타입, 경계 다루기
 
 ## 2023년 3월 24일(금요일)
-- Apple coding : 자바스크립트 처음부터 수강
-- 
+- Apple coding : 변수 와 사칙연산
+-  
 ## 2023년 3월 28일(화요일)
-- Su coding : 자바스크립트 기초강좌 수강
+- Su coding : 간단한 계산기 만들기
 
 ## 2023년 4월 3일(월요일)
-- Apple coding : 자바스크립트 1Chapter 수강
+- Apple coding : setTimeout 타이머 주기
+
+## 2023년 4월 4일(화요일)
+- 자바 스크립트 : 함수 retrun 문법 및 소수점 다루기
+
+## 2023년 4월 5일(수요일)
+- 자바 스크립트 : 탭기능 및 for 반복문
