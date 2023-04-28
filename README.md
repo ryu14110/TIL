@@ -453,3 +453,10 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 ## 2023년 4월 26일(수요일)
 - 엘리스트랙 : 기초 역량 및 코딩 테스트 
+
+## 2023년 4월 27일(목요일)
+- 엘리스트랙 : google meet 인터뷰 
+- applecoding: 자바스크립 기초 강의 (function 파라미터)
+
+## 2023년 4월 29일(토요일)
+- applecoding : 자바스크립트 (addEventListener 활용) 
