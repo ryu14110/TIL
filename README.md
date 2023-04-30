@@ -460,3 +460,7 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 ## 2023년 4월 29일(토요일)
 - applecoding : 자바스크립트 (addEventListener 활용) 
+
+## 2023년 4월 30일(일요일)
+- applecoding : 자바스크립트 (JQuery 사용법) 
+- 엘리스 트랙 : 자바스크립트 (추가 문제집 풀기)
