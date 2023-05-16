@@ -488,3 +488,15 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 ## 2023년 5월 12일(금요일)
 - applecoding : 자바스크립트 (이벤트리스너 만들기) 
+
+## 2023년 5월 13일(토요일)
+- applecoding : 자바스크립트 (사칙연산 및 변수) 
+
+## 2023년 5월 14일(일요일)
+- applecoding : 자바스크립트 (setTimeout & setInterval) 
+
+## 2023년 5월 15일(월요일)
+- Elice 풀스텍 캠프 시작 : HTML/CSS 기초 
+
+## 2023년 5월 16일(화요일)
+- Elice 풀스텍 캠프 시작 : HTML/CSS 기초 및 온라인 
