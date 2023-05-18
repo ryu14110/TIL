@@ -499,4 +499,7 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - Elice 풀스텍 캠프 시작 : HTML/CSS 기초 
 
 ## 2023년 5월 16일(화요일)
-- Elice 풀스텍 캠프 시작 : HTML/CSS 기초 및 온라인 
+- Elice 풀스텍 캠프 시작 : HTML/CSS 기초 및 온라인 Q&A
+
+## 2023년 5월 18일(목요일)
+- Elice 풀스텍 캠프 시작 : HTML/CSS (움직이는 웹사이트) 및 온라인 강의 
