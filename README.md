@@ -527,3 +527,9 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 - ## 2023년 6월 2일(금요일)
 - Elice 풀스텍 캠프  : JS(jQuery 구현 크로켓 경기 )  
+
+- ## 2023년 6월 3일(토요일)
+- Elice 풀스텍 캠프  : JS(DOM & Event - node 값의 접근 ) 
+
+- ## 2023년 6월 4일(일요일)
+- Elice 풀스텍 캠프  : JS(DOM & Event - 실습문제  ) 
