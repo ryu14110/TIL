@@ -536,3 +536,6 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 - ## 2023년 6월 5일(월요일)
 - Elice 풀스텍 캠프  : JS(DOM & Event - Scroll Navigation 실습) 
+
+- ## 2023년 6월 6일(화요일)
+- Elice 풀스택캠프: JS DOM & Event - Image Slider 실습.
