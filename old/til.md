@@ -533,3 +533,6 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 - ## 2023년 6월 4일(일요일)
 - Elice 풀스텍 캠프  : JS(DOM & Event - 실습문제  ) 
+
+- ## 2023년 6월 5일(월요일)
+- Elice 풀스텍 캠프  : JS(DOM & Event - 실습:  ) 
