@@ -539,3 +539,6 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 - ## 2023년 6월 6일(화요일)
 - Elice 풀스택캠프: JS DOM & Event - Image Slider 실습.
+
+- ## 2023년 6월 7일(수요일)
+- Elice 풀스택캠프: JS 주간테스트. 원기둥부피계산기, 신발사이즈 변환기 코딩.
