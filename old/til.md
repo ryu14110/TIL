@@ -542,3 +542,12 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 - ## 2023년 6월 7일(수요일)
 - Elice 풀스택캠프: JS 주간테스트. 원기둥부피계산기, 신발사이즈 변환기 코딩.
+
+- ## 2023년 6월 8일(목요일)
+- Elice 풀스택캠프: Nodejs. ES6 let,const,template string 사용하기.
+
+- ## 2023년 6월 9일(금요일)
+- Elice 풀스택캠프: Nodejs. arrow function, class, destructing 사용하기.
+
+- ## 2023년 6월 10일(토요일)
+- Elice 풀스택캠프: Nodejs. 비동기 코딩, callback, promise, async-await 사용하기.
