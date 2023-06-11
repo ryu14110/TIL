@@ -551,3 +551,9 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 - ## 2023년 6월 10일(토요일)
 - Elice 풀스택캠프: Nodejs. 비동기 코딩, callback, promise, async-await 사용하기.
+
+- ## 2023년 6월 11일(일요일)
+- Elice 풀스택캠프: Nodejs. NPM과 모듈.
+
+- ## 2023년 6월 12일(월요일)
+- Elice 풀스택캠프: Nodejs. NPX, NPM 모듈의 .
