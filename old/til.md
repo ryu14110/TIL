@@ -617,3 +617,9 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 - ## 2023년 7월 4일(화요일)
 - Elice 풀스택캠프: React기초 Todolist, 온라인 강의.
+
+- ## 2023년 7월 5일(수요일)
+- 생활코딩: React기초 CRUD 만들기.
+
+- ## 2023년 7월 6일(목요일)
+- Elice 풀스택캠프: React기초 8주차(CSS import 수학문제 앱구현, 온라인 강의.
