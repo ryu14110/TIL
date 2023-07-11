@@ -635,3 +635,5 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 - ## 2023년 7월 11일(화요일)
 - Elice 풀스택: React기초 useContext 온라인 강의.
+
+-##2023.07.12(수) : 리액터기초 useState 이용 1씩 증가하는 카운트 코드작성.
