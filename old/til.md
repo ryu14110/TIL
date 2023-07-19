@@ -653,5 +653,10 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 7월 17일(월요일)
 - Elice 풀스택: React Redux 기초연습.
 
-- - ## 2023년 7월 18일(화요일)
+- ## 2023년 7월 18일(화요일)
 - Elice 풀스택: SQL 문법 및 온라인 강의(SSR & CSR 기초).
+
+- ## 2023년 7월 19일(수요일)
+- Elice 풀스택: SQL 문법 수강.
+- 개인프로젝트 만들기 : 유튜브 만들어 올리기(https://project-utube.vercel.app).
+  
