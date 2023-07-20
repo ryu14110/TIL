@@ -660,3 +660,6 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - Elice 풀스택: SQL 문법 수강.
 - 개인프로젝트 만들기 : 유튜브 만들어 올리기(https://project-utube.vercel.app).
   
+- ## 2023년 7월 20일(목요일)
+- Elice 풀스택: SQL 데이터를 제어하는 DML.
+- 개인프로젝트 만들기 : 가위바위보 게임 만들어 올리기(https://game-scissors.vercel.app).
