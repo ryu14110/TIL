@@ -663,3 +663,7 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 7월 20일(목요일)
 - Elice 풀스택: SQL 데이터를 제어하는 DML.
 - 개인프로젝트 만들기 : 가위바위보 게임 만들어 올리기(https://game-scissors.vercel.app).
+
+- ## 2023년 7월 21일(금요일)
+- Elice 풀스택: 데이터베이스 구성하기.
+- 개인프로젝트 만들기 : javaScript 기초페이지(https://ryu14110.github.io/JavaScript-CRUD/2.html).
