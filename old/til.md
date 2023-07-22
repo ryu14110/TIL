@@ -667,3 +667,6 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 7월 21일(금요일)
 - Elice 풀스택: 데이터베이스 구성하기.
 - 개인프로젝트 만들기 : javaScript 기초페이지(https://ryu14110.github.io/JavaScript-CRUD/2.html).
+
+- ## 2023년 7월 22일(토요일)
+- 개인프로젝트 만들기 :날씨 앱 만들기 (https://weather-three-azure.vercel.app/).
