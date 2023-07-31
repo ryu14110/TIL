@@ -685,3 +685,7 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 7월 30일(일요일)
 - Elice 풀스택 : DB 주간테스트.
 - 개인프로젝트 만들기 :리액트 scissors 게임 만들기.
+
+- ## 2023년 7월 31일(월요일)
+- Elice 풀스택 : SQL join문법.
+- 개인프로젝트 만들기 :리액트 jh-shopping 만들기(https://jhshopping.vercel.app/).
