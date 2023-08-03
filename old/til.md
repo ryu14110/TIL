@@ -689,3 +689,11 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 7월 31일(월요일)
 - Elice 풀스택 : SQL join문법.
 - 개인프로젝트 만들기 :리액트 jh-shopping 만들기(https://jhshopping.vercel.app/).
+
+- ## 2023년 8월 3일(목요일)
+- Elice 풀스택 : SQL 기초 문법 및 온라인 강의.
+- 개인프로젝트 만들기 : JavaScript - 숫자 맞추기 게임.
+
+- ## 2023년 8월 4일(금요일)
+- Elice 풀스택 : Node.js와 MongoDB 기초.
+- 개인프로젝트 :리액트 Router 설치.
