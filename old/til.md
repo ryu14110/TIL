@@ -697,3 +697,6 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 8월 4일(금요일)
 - Elice 풀스택 : Node.js와 MongoDB 기초.
 - 개인프로젝트 :리액트 Router 설치.
+
+- ## 2023년 8월 5일(토요일)
+- 개인프로젝트 :javascript Todo List 만들기.
