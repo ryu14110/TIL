@@ -700,3 +700,7 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 - ## 2023년 8월 5일(토요일)
 - 개인프로젝트 :javascript Todo List 만들기.
+
+- ## 2023년 8월 7일(월요일)
+- 개인프로젝트 :React netflix 연습.
+- Elice 풀스택 : Express.js 와 REST API 실습.
