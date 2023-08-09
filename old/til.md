@@ -704,3 +704,9 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 8월 7일(월요일)
 - 개인프로젝트 :React netflix 연습.
 - Elice 풀스택 : Express.js 와 REST API 실습.
+
+- ## 2023년 8월 8일(화요일)
+- Elice 풀스택 : SQL기초 및 온라인 강의.
+
+- ## 2023년 8월 9일(수요일)
+- 개인프로젝트 : move(React) 연습.
