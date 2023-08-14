@@ -720,3 +720,7 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 - ## 2023년 8월 13일(일요일)
 - 개인프로젝트 : React 가위바위보 게임 제작 배포(https://scissors-game-three.vercel.app/).
+
+- ## 2023년 8월 14일(월요일)
+- 개인프로젝트 : React 날씨앱 API 연결 연습.
+- Elice 풀스택: 데이터베이스 기초 Test.
