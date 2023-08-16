@@ -724,3 +724,11 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 8월 14일(월요일)
 - 개인프로젝트 : React 날씨앱 API 연결 연습.
 - Elice 풀스택: 데이터베이스 기초 Test.
+
+- ## 2023년 8월 15일(화요일)
+- 개인프로젝트 : React shopping mall 연습.
+- Elice 풀스택: 데이터베이스 Test 풀기.
+
+- ## 2023년 8월 16일(화요일)
+- 개인프로젝트 : React shopping mall API 연습.
+
