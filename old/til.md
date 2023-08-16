@@ -729,6 +729,9 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 개인프로젝트 : React shopping mall 연습.
 - Elice 풀스택: 데이터베이스 Test 풀기.
 
-- ## 2023년 8월 16일(화요일)
+- ## 2023년 8월 16일(수요일)
 - 개인프로젝트 : React shopping mall API 연습.
 
+- ## 2023년 8월 17일(목요일)
+- 개인프로젝트 : React shopping mall 상품 디테일페이지 만들기.
+- Elice 풀스택: 데이터베이스 온라인 강의
