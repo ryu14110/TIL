@@ -10,13 +10,13 @@ at Router (http://localhost:3000/static/js/bundle.js:43575:15) at BrowserRouter 
 -->
 (1)
 {items.map((item, index) => (
-<li key = {index} >{item.name}</li>      "index" 와 "key = {index}" 추가
+<li key = {index} >{item.name}</li>       "index" 와 "key = {index}" 추가후 완료
 ))}
 
 (2)
 {productList.map((menu,index)=>(
             <Col lg={3} key={index}>
-              <ProductCard item={menu}/>   "index" 와 "key = {index}" 추가
+              <ProductCard item={menu}/>    "index" 와 "key = {index}" 추가후 완료
             </Col>
           ))}
 
@@ -41,4 +41,27 @@ useResolvedPath, useRevalidator, useRouteError, useRouteLoaderData, useRoutes, u
 
 webpack compiled with 1 error
 -->
-import { Navigate } from 'react-router-dom';      "중괄호 빠짐 { Navigate }"
+import { Navigate } from 'react-router-dom';      "중괄호 빠짐 { Navigate } 중괄호 추가후 완료"
+
+
+## 2023 08 17 shopping mall (react), vscode
+ERROR
+Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `ProductDetail`.
+Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `ProductDetail`.
+    at createFiberFromTypeAndProps (http://localhost:3000/static/js/bundle.js:39477:21)
+    at createFiberFromElement (http://localhost:3000/static/js/bundle.js:39498:19)
+    at reconcileSingleElement (http://localhost:3000/static/js/bundle.js:28589:27)
+    at reconcileChildFibers (http://localhost:3000/static/js/bundle.js:28639:39)
+    at reconcileChildren (http://localhost:3000/static/js/bundle.js:31581:32)
+    at mountIndeterminateComponent (http://localhost:3000/static/js/bundle.js:32418:9)
+    at beginWork (http://localhost:3000/static/js/bundle.js:33646:20)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:18656:18)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:18700:20)
+    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:18757:35)
+
+-->
+import {Container, Row, Col} from 'react-bootstrap';     " from 'react-router-dom' 을 'react-bootstrap' 수정후 완료 "
