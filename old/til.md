@@ -733,5 +733,5 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 개인프로젝트 : React shopping mall API 연습.
 
 - ## 2023년 8월 17일(목요일)
-- 개인프로젝트 : React shopping mall 상품 디테일페이지 만들기.
+- 개인프로젝트 : React shopping mall 상품 디테일페이지 만들기.(https://james-jhshopping.netlify.app)
 - Elice 풀스택: 데이터베이스 온라인 강의
