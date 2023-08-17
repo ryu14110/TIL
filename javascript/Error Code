@@ -3,8 +3,33 @@
 ##20230817 shopping Mall (react) 
 react-jsx-dev-runtime.development.js:87 Warning: Each child in a list should have a unique "key" prop.
 
-Check the render method of Navbar. See https://reactjs.org/link/warning-keys for more information. at li at Navbar (http://localhost:3000/static/js/bundle.js:166:81) at div at App (http://localhost:3000/static/js/bundle.js:41:90) at Router (http://localhost:3000/static/js/bundle.js:43575:15) at BrowserRouter (http://localhost:3000/static/js/bundle.js:41676:5) -->
+Check the render method of Navbar. See https://reactjs.org/link/warning-keys for more information. 
+at li at Navbar (http://localhost:3000/static/js/bundle.js:166:81) at div at App (http://localhost:3000/static/js/bundle.js:41:90) 
+at Router (http://localhost:3000/static/js/bundle.js:43575:15) at BrowserRouter (http://localhost:3000/static/js/bundle.js:41676:5) 
 
+-->
 {items.map((item, index) => (
-{item.name}
+<li key = {index} >{item.name}</li>      "index" 와 "key = {index}" 추가
 ))}
+
+
+##2023/08/17
+Failed to compile.
+
+Attempted import error: 'react-router-dom' does not contain a default export (imported as 'Navigate').
+ERROR in ./src/route/PrivateRoute.js 15:34-42
+export 'default' (imported as 'Navigate') was not found in 'react-router-dom' 
+(possible exports: AbortedDeferredError, Await, BrowserRouter, Form, HashRouter, Link, MemoryRouter, 
+NavLink, Navigate, NavigationType, Outlet, Route, Router, RouterProvider, Routes, ScrollRestoration, 
+UNSAFE_DataRouterContext, UNSAFE_DataRouterStateContext, UNSAFE_LocationContext, UNSAFE_NavigationContext, 
+UNSAFE_RouteContext, UNSAFE_useRouteId, UNSAFE_useScrollRestoration, createBrowserRouter, createHashRouter, 
+createMemoryRouter, createPath, createRoutesFromChildren, createRoutesFromElements, createSearchParams, defer, 
+generatePath, isRouteErrorResponse, json, matchPath, matchRoutes, parsePath, redirect, redirectDocument, renderMatches, 
+resolvePath, unstable_HistoryRouter, unstable_useBlocker, unstable_usePrompt, useActionData, useAsyncError, useAsyncValue, 
+useBeforeUnload, useFetcher, useFetchers, useFormAction, useHref, useInRouterContext, useLinkClickHandler, useLoaderData, 
+useLocation, useMatch, useMatches, useNavigate, useNavigation, useNavigationType, useOutlet, useOutletContext, useParams, 
+useResolvedPath, useRevalidator, useRouteError, useRouteLoaderData, useRoutes, useSearchParams, useSubmit)
+
+webpack compiled with 1 error
+-->
+import { Navigate } from 'react-router-dom';      "중괄호 빠짐 { Navigate }"
