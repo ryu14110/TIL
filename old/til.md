@@ -737,5 +737,5 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - Elice 풀스택: 데이터베이스 온라인 강의
 
 - ## 2023년 8월 17일(목요일)
-- 개인프로젝트 : React shopping 수정 및 update.
+- 개인프로젝트 : React shopping 수정 및 update(https://main--regal-cucurucho-349f2a.netlify.app/).
 - Elice fullstack: 데이터 베이스 주간 테스트 풀기.
