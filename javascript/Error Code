@@ -65,3 +65,23 @@ Check the render method of `ProductDetail`.
 
 -->
 import {Container, Row, Col} from 'react-bootstrap';     " from 'react-router-dom' 을 'react-bootstrap' 수정후 완료 "
+
+
+## 2023 08 22 netflix (react), vscode
+
+Compiled with warnings.
+
+[eslint] 
+src/components/Navigation.js
+  Line 10:32:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/Navigation.js
+  Line 10:32:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+webpack compiled with 1 warning
+-->
+<Navbar.Brand href="#"><img width={80} src="netflix.png" alt="img"/></Navbar.Brand>  " alt="img" 를 추가후 완료 "
