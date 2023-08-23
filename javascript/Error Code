@@ -85,3 +85,20 @@ src/components/Navigation.js
 webpack compiled with 1 warning
 -->
 <Navbar.Brand href="#"><img width={80} src="netflix.png" alt="img"/></Navbar.Brand>  " alt="img" 를 추가후 완료 "
+
+## 2023 08 24 netflix (react), vscode
+ERROR
+Cannot read properties of undefined (reading 'poster_path')
+TypeError: Cannot read properties of undefined (reading 'poster_path')
+    at MovieCard (http://localhost:3000/static/js/bundle.js:245:97)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:33617:22)
+    at mountIndeterminateComponent (http://localhost:3000/static/js/bundle.js:36903:17)
+    at beginWork (http://localhost:3000/static/js/bundle.js:38199:20)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:23209:18)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:23253:20)
+    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:23310:35)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:43184:11)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:42431:16)
+    at workLoopSync (http://localhost:3000/static/js/bundle.js:42354:9)
+---> Carousel 에 movie 카드 폭이 너무 좁아 영화포스터(poster_path) 보이지 않음 
+---> MovieCard.js 의 className='card'을 'card-one'으로 고친후 완료됨(중복해소).
