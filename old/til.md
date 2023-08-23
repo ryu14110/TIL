@@ -751,3 +751,7 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - - ## 2023년 8월 23일(수요일)
 - 개인프로젝트 : React netflix 라우터 및 리덕스 세팅.
 - Elice fullstack: 주간테스트 (15주차).
+
+ - ## 2023년 8월 24일(목요일)
+- 개인프로젝트 : React netflix MovieSlid 및 MovieCard 만들기.
+- Elice fullstack: Express.js DB 온라인 강의.
