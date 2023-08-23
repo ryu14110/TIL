@@ -743,3 +743,11 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 8월 19일(토요일)
 - 개인프로젝트 : React shopping 연습
 - Elice fullstack: Express.js와 MongoDB 웹사이트 만들기.
+
+- ## 2023년 8월 22일(화요일)
+- 개인프로젝트 : React netflix 연습
+- Elice fullstack: Express.js 데이터베이스 만들기 온라인 강의.
+
+- - ## 2023년 8월 23일(수요일)
+- 개인프로젝트 : React netflix 라우터 및 리덕스 세팅.
+- Elice fullstack: 주간테스트 (15주차).
