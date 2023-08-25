@@ -102,3 +102,9 @@ TypeError: Cannot read properties of undefined (reading 'poster_path')
     at workLoopSync (http://localhost:3000/static/js/bundle.js:42354:9)
 ---> Carousel 에 movie 카드 폭이 너무 좁아 영화포스터(poster_path) 보이지 않음 
 ---> MovieCard.js 의 className='card'을 'card-one'으로 고친후 완료됨(중복해소).
+
+## 2023 08 25 netflix (react), vscode
+ERROR
+ERROR in ./src/redux/actions/movieAction.js 3:0-24
+Module not found: Error: Can't resolve '..api' in '/Users/brown/myproject/825netflix/src/redux/actions'
+--->  ..api -> ../api 수정후 완료
