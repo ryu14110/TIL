@@ -108,3 +108,20 @@ ERROR
 ERROR in ./src/redux/actions/movieAction.js 3:0-24
 Module not found: Error: Can't resolve '..api' in '/Users/brown/myproject/825netflix/src/redux/actions'
 --->  ..api -> ../api 수정후 완료
+
+## 2023 08 25 netflix (react), vscode
+ERROR
+Cannot read properties of undefined (reading '0')
+TypeError: Cannot read properties of undefined (reading '0')
+    at Home (http://localhost:3000/static/js/bundle.js:492:35)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:33330:22)
+    at mountIndeterminateComponent (http://localhost:3000/static/js/bundle.js:36616:17)
+    at beginWork (http://localhost:3000/static/js/bundle.js:37912:20)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:22922:18)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:22966:20)
+    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:23023:35)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:42897:11)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:42144:16)
+    at workLoopSync (http://localhost:3000/static/js/bundle.js:42067:9)
+---> <Banner movie={popularMovies.results[0]} />
+---> {popularMovies.results && <Banner movie={popularMovies.results[0]} />} 수정후 완료
