@@ -126,9 +126,11 @@ TypeError: Cannot read properties of undefined (reading '0')
 ---> <Banner movie={popularMovies.results[0]} />
 ---> {popularMovies.results && <Banner movie={popularMovies.results[0]} />} 수정후 완료
 
+
 ## 2023 08 26 javaScript (3주차 주간테스트), vscode
 Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
     at index.js:6:6
+
 [index.html]
 <!DOCTYPE html>
 <html>
@@ -145,6 +147,23 @@ Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
     <script src="index.js"></script>
   </body>
 </html>
+[index.js]
+var form = document.getElementById("form");
+var input = document.getElementById("input");
+var answer = document.getElementById("answer");
+
+// 지시사항을 참고하여 문제를 해결하세요.
+form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    var inputValue = input.value;
+  if(inputValue >= 50){
+      answer.textContent = '우산을 챙긴다.';
+  }else{
+      answer.textContent = '그냥 간다.'
+  }
+  form.reset();
+});
+
 Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
     at index.js:6:6
 ----> 에러 발생
