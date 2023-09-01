@@ -755,3 +755,11 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
  - ## 2023년 8월 24일(목요일)
 - 개인프로젝트 : React netflix MovieSlid 및 MovieCard 만들기.
 - Elice fullstack: Express.js DB 온라인 강의.
+
+- ## 2023년 8월 31일(목요일)
+- 개인프로젝트 : 주간테스트 React연습.
+- Elice fullstack: Monogodg 온라인 강의.
+
+- - ## 2023년 9월 1일(금요일)
+- 개인프로젝트 : 중간 평가(HTML, Css, jS, React).
+- Elice fullstack: MongoDB 만들기.
