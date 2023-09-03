@@ -7,6 +7,7 @@ Cmd 터미널
     > brew install mongodb-community@6.0
     > brew services restart mongodb/brew/monogdb-community@6.0  (삭제 및 재설치 작업 후 Compass 연결됨)
 
+
 [todolist 백엔드 실습중 console.log실행도중] 20230904
 localhost/:1 Access to XMLHttpRequest at 'http://localhost:5000/api/tasks' 
 from origin 'http://localhost:3000' has been blocked by CORS policy: 
