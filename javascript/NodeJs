@@ -1,6 +1,8 @@
 [몽고 DB 연결 문제]
 (MongoDB 연결 안됨)
-터미널> brew update
+Cmd 터미널
+    > brew update
     > brew search monogdb (설치가능 버전 확인)
+(Vscode.Terminal)
     > brew install mongodb-community@6.0
     > brew services restart mongodb/brew/monogdb-community@6.0  (삭제 및 재설치 작업 후 Compass 연결됨)
