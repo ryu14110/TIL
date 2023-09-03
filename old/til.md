@@ -763,3 +763,6 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - - ## 2023년 9월 1일(금요일)
 - 개인프로젝트 : 중간 평가(HTML, Css, jS, React).
 - Elice fullstack: MongoDB 만들기.
+
+- ## 2023년 9월 3일 (일요일)
+- noonaCoding : mongoDB 설치 및 create, read, update, delete 연습.
