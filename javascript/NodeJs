@@ -12,4 +12,4 @@ Cmd 터미널
 localhost/:1 Access to XMLHttpRequest at 'http://localhost:5000/api/tasks' 
 from origin 'http://localhost:3000' has been blocked by CORS policy: 
 No 'Access-Control-Allow-Origin' header is present on the requested resource.
---> (vscode) npm install cors 설치 후 (app.js) const cors = require('cors'), app.use(cors()) 추가해 준다.  ['npm cors' 참조]
+--> (vscode) 'todo-be' (app.js) npm install cors 설치 후  const cors = require('cors'), app.use(cors()) 추가해 준다.  ['npm cors' 참조]
