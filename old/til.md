@@ -770,3 +770,7 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 9월 5일 (화요일)
 - Elice fullstack: Nodejs & MongoDB 회원가입 구현하기 온라인 강의.
 - noonaCoding : mongoDB 설치 및 create, read, update, delete 연습.
+  
+- ## 2023년 9월 6일 (수요일)
+- Elice fullstack: Nodejs & MongoDB 주간테스트 연습.
+- noonaCoding : todo-fe 배포 연습.
