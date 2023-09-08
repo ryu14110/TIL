@@ -13,3 +13,35 @@ localhost/:1 Access to XMLHttpRequest at 'http://localhost:5000/api/tasks'
 from origin 'http://localhost:3000' has been blocked by CORS policy: 
 No 'Access-Control-Allow-Origin' header is present on the requested resource.
 --> (vscode) 'todo-be' (app.js) npm install cors 설치 후  const cors = require('cors'), app.use(cors()) 추가해 준다.  ['npm cors' 참조]
+
+[nodemon 설치후 error 발생] 20230909
+brownui-MacBookPro:todo-be brown$ npm install nodemon
+added 34 packages, and audited 119 packages in 5s
+12 packages are looking for funding
+  run `npm fund` for details
+found 0 vulnerabilities
+
+brownui-MacBookPro:todo-be brown$ nodemon app.js
+bash: nodemon: command not found
+
+brownui-MacBookPro:todo-be brown$ npm -g ls nodemon
+/usr/local/lib npm install -g nodemon
+brownui-MacBookPro:todo-be brown$ npm -g ls nodemon
+/usr/local/lib
+└── (empty)
+
+brownui-MacBookPro:todo-be brown$ npm install -g nodemon
+npm ERR! code EACCES
+npm ERR! syscall mkdir
+npm ERR! path /usr/local/lib/node_modules/nodemon
+npm ERR! errno -13
+npm ERR! Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/nodemon'
+npm ERR!  [Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/nodemon'] {
+npm ERR!   errno: -13,
+npm ERR!   code: 'EACCES',
+npm ERR!   syscall: 'mkdir',
+npm ERR!   path: '/usr/local/lib/node_modules/nodemon'
+npm ERR! }
+
+---> sudo npm install -g nodemon 설치후 해결 됨
+
