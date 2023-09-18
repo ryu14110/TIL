@@ -778,7 +778,14 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 9월 7일 (목요일)
 - Elice fullstack: Nodejs & MongoDB(JWT + Cookie) 온라인 강의.
 - 주간 테스트 풀기(Nodejs, MongoDB)
-- 
+
 - ## 2023년 9월 8일 (금요일)
 - Elice fullstack: MongoDB 주간 테스트 풀이.
 - noonaCoding : mongoose, Express 정리.
+
+- ## 2023년 9월 18일 (월요일)
+- Elice fullstack: 주간 테스트(13주차) 풀이.
+- noonaCoding : javascript-number guess game 연습.
+
+- - ## 2023년 9월 19일 (화요일)
+- Elice fullstack: 주간 테스트(14주차) 풀이 및 온라인 강의.
