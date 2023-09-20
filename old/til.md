@@ -787,5 +787,9 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - Elice fullstack: 주간 테스트(13주차) 풀이.
 - noonaCoding : javascript-number guess game 연습.
 
-- - ## 2023년 9월 19일 (화요일)
+- ## 2023년 9월 19일 (화요일)
 - Elice fullstack: 주간 테스트(14주차) 풀이 및 온라인 강의.
+
+- ## 2023년 9월 20일 (수요일)
+- Elice fullstack: 주간 테스트(15주차) 풀이.
+- noonaCoding : javascript(vanila) - TodoList 작성/베포.
