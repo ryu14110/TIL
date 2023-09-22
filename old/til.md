@@ -793,7 +793,12 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 9월 20일 (수요일)
 - Elice fullstack: 주간 테스트(15주차) 풀이.
 - noonaCoding : javascript(vanila) - TodoList 작성/베포.
-- 
+
 - ## 2023년 9월 21일 (목요일)
 - Elice fullstack: 주간 테스트(16주차) 풀이.
 - noonaCoding : javascript(vanila) - TodoList 수정/베포.
+  
+- ## 2023년 9월 22일 (금요일)
+- Elice fullstack: 주간 테스트(17주차) 풀이.
+- noonaCoding : javascript(리액터) jnh-shop 작성/배포.
+- 1차 팀프로젝트 미팅 
