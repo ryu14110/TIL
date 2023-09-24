@@ -801,4 +801,8 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 9월 22일 (금요일)
 - Elice fullstack: 주간 테스트(17주차) 풀이.
 - noonaCoding : javascript(리액터) jnh-shop 작성/배포.
-- 1차 팀프로젝트 미팅 
+- 1차 팀프로젝트 미팅
+
+- ## 2023년 9월 23일 (토요일)
+- noonaCoding : javascript(리액터) local-shop 작성.
+
