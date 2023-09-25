@@ -806,3 +806,9 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 9월 23일 (토요일)
 - noonaCoding : javascript(리액터) local-shop 작성.
 
+- ## 2023년 9월 24일 (일요일)
+- noonaCoding : javascript(리액터) local-shop 작성완료.
+
+- ## 2023년 9월 25일 (월요일)
+- noonaCoding : javascript(리액터) TodoList 작성.
+
