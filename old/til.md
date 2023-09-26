@@ -811,4 +811,7 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 - ## 2023년 9월 25일 (월요일)
 - noonaCoding : javascript(리액터) TodoList 작성.
+ 
+- ## 2023년 9월 26일 (화요일)
+- noonaCoding : javascript(리액터) shop coding 연습.
 
