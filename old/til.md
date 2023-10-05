@@ -820,3 +820,10 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 
 - ## 2023년 10월 2일 (화요일)
 - noonaCoding : javascript todoList 연습.
+
+- ## 2023년 10월 4일 (수요일)
+- noonaCoding : javascript todoList 연습.
+
+- ## 2023년 10월 5일 (목요일)
+- elice : 취업 콘서트 방청(youTube)
+- noonaCoding : javascript todoList 연습.
