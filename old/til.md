@@ -827,3 +827,10 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 10월 5일 (목요일)
 - elice : 취업 콘서트 방청(youTube)
 - noonaCoding : javascript todoList 연습.
+
+- ## 2023년 10월 9일 (월요일)
+- elice : 팀프로젝트(백엔드 코칭)
+
+- ## 2023년 10월 10일 (화요일)
+- elice : 팀프로젝트 (프론트엔드 코칭)
+- noonaCoding : fullstack todoList 연습.
