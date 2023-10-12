@@ -834,3 +834,11 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 10월 10일 (화요일)
 - elice : 팀프로젝트 (프론트엔드 코칭)
 - noonaCoding : fullstack todoList 연습.
+- 
+- ## 2023년 10월 11일 (수요일)
+- elice : 팀프로젝트 (프론트엔드 코칭): API 명세서 작성법, 예시 코드 배포.
+- noonaCoding : 백엔드 todoList 연습.
+  
+- ## 2023년 10월 12일 (목요일)
+- elice : 팀프로젝트 (백엔드 코칭)
+- noonaCoding : 백엔드 기초 todoList 연습.
