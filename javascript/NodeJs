@@ -45,3 +45,15 @@ npm ERR! }
 
 ---> sudo npm install -g nodemon 설치후 해결 됨
 
+[vscode] port3000 다른 프로세스가 사용중일때
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1844:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+-----> lsof -i :3000 (3000번 포트사용 확인)
+    kill -9 <PID> (현재의 프르세스 중단) 후 해결 완료
