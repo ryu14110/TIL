@@ -846,6 +846,10 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 10월 13일 (금요일)
 - elice : 팀프로젝트 - nodejse 와 mySql 연동 연습
   
-- ## 2023년 10월 12일 (토요일)
+- ## 2023년 10월 15일 (일요일)
 - elice : 팀프로젝트 -mysql사용법 연습
-- JoCoding : Nodejs 백엔드 기초 (YouTube)
+- 유니다고 : Nodejs + express + mysql 연습
+  
+- ## 2023년 10월 16일 (토요일)
+- 유니다고 : Nodejs web site 만들기 (YouTube)
+
