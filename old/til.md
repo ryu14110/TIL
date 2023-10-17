@@ -850,6 +850,12 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - elice : 팀프로젝트 -mysql사용법 연습
 - 유니다고 : Nodejs + express + mysql 연습
   
-- ## 2023년 10월 16일 (토요일)
+- ## 2023년 10월 16일 (월요일)
 - 유니다고 : Nodejs web site 만들기 (YouTube)
+  
+- ## 2023년 10월 17일 (화요일)
+- 유니다고 : Nodejs web site 만들기 (YouTube)
+- noonaCoding : shopping-mall (be 만들기 연습)
+- elice 백엔드 코칭(7:50~8:40 pm)
+
 
