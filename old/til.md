@@ -857,5 +857,11 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - 유니다고 : Nodejs web site 만들기 (YouTube)
 - noonaCoding : shopping-mall (be 만들기 연습)
 - elice 백엔드 코칭(7:50~8:40 pm)
+  
+- ## 2023년 10월 19일 (목요일)
+- elice 백엔드 CRUD API 만들기
+  
+- ## 2023년 10월 20일 (금요일)
+- elice 백엔드 CRUD API 테스트/수정
 
 
