@@ -879,6 +879,13 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 11월 2일 (목요일)
 - elice 주간테스트 풀기
 - 신문(newsApi) API 연결 만들기
+- 
+- ## 2023년 11월 3일 (금요일)
+- AWS, PlanetScale, MongoDB 사용과금으로 해결노력.
+
+- ## 2023년 11월 5일 (일요일)
+- todoList 기능추가 새로 만들기(javaScript)
+
 
 
 
