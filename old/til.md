@@ -886,6 +886,9 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 11월 5일 (일요일)
 - todoList 기능추가 새로 만들기(javaScript)
 
+- ## 2023년 11월 6일 (월요일)
+- todoList 코드 분석하기(javaScript)
+
 
 
 
