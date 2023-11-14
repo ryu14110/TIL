@@ -916,8 +916,14 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 11월 5일 (일요일)
 - todoList 기능추가 새로 만들기(javaScript)
 
-- ## 2023년 11월 6일 (월요일)
-- todoList 코드 분석하기(javaScript)
+- ## 2023년 11월 13일 (월요일)
+- router 설정(shop) 코드 만들기(react)
+
+- ## 2023년 11월 14일 (화요일)
+- react Nodejs Mysql CRUD (YouTube) 따라하기
+
+- ## 2023년 11월 15일 (수요일)
+- react Nodejs Mysql CRUD 반복하기
 
 
 
