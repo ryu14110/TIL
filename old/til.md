@@ -925,6 +925,12 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 11월 15일 (수요일)
 - react Nodejs Mysql CRUD 반복하기
 
+- ## 2023년 11월 16일 (목요일)
+- react Mysql 로그인.회원등록 만들기
+
+- ## 2023년 11월 17일 (금요일)
+- react Mysql 로그인.회원등록 연습
+
 
 
 
