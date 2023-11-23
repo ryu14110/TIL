@@ -931,6 +931,12 @@ console.log(solution([1, 2, 3, 3, 3, 4]));
 - ## 2023년 11월 17일 (금요일)
 - react Mysql 로그인.회원등록 연습
 
+- ## 2023년 11월 23일 (목요일)
+- react native  todo app 만들기(Inflearn 강의)
+
+- ## 2023년 11월 24일 (금요일)
+- react native 완벽가이드(Udemy 강의)
+
 
 
 
